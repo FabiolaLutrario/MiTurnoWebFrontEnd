@@ -6,13 +6,20 @@ MiTurnoWeb is a web application that allows the reservation of appointments for 
 
 ## Table of Contents
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- [MiTurnoWeb](#miturnoweb)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+    - [1. Appointment Reservation](#1-appointment-reservation)
+    - [2. Location Management](#2-location-management)
+    - [3. User Authentication](#3-user-authentication)
+    - [4. Technology Stack](#4-technology-stack)
+    - [5. Open Source](#5-open-source)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Contacts](#contacts)
 
 ## Features
 
@@ -89,4 +96,4 @@ Thanks again!
 - Lucas Glave » [Email](mailto:lucasglave@gmail.com) - [LinkedIn](https://www.linkedin.com/in/lucasglave/)
 - Juan Pablo Lezcano » [Email](mailto:jplezcano75@gmail.com) - [LinkedIn](https://www.linkedin.com/in/juan-pablo-lezcano-02529a214/)
 
-Project Link: [https://github.com/LucasGlave/MiTurnoWeb.git](https://https://github.com/LucasGlave/MiTurnoWeb)
+Project Link: [https://github.com/FabiolaLutrario/MiTurnoWebFrontEnd](https://github.com/FabiolaLutrario/MiTurnoWebFrontEnd)
