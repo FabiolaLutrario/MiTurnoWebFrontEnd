@@ -56,7 +56,7 @@ MiTurnoWeb is a web application that allows the reservation of appointments for 
 
 ### Prerequisites
 
--Make sure you have [Nodejs](https://nodejs.org/en/download/) v18.18.2. and [npm](https://www.npmjs.com/package/download) (or yarn) installed on your machine.
+-Make sure you have [Nodejs](https://nodejs.org/en/download/) v20.10.0 and [npm](https://www.npmjs.com/package/download) (or yarn) installed on your machine.
 
 ### Installation
 
